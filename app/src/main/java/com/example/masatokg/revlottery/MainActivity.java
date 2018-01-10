@@ -10,7 +10,6 @@ import android.widget.TextView;
 
 import java.util.Random;
 
-
 public class MainActivity extends AppCompatActivity {
 
     // フィールド
