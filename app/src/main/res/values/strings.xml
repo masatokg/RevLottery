@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RevLottery</string>
+    <string name="lbl_title">抽選くん</string>
+    <string name="lbl_param">人中</string>
+    <string name="lbl_win">人が当選</string>
+    <string name="lott">lott!!</string>
+    <string name="win">あたり！！</string>
+    <string name="lose">はずれ！！</string>
+</resources>
